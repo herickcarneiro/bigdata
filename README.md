@@ -25,7 +25,9 @@ Este repositório contém as respostas das atividades e os códigos dos laborat�
     📁 atividade-1/
     └── respostas.md
     📁 lab01/
-    └── consultas.sql
+    ├── questao01.sql
+    ├── questao02.sql
+    └── questao03.sql
 
 
 ## 📌 Observações
