@@ -14,9 +14,13 @@ Este repositório contém as respostas das atividades e os códigos dos laborat�
 
 ## 🧪 Laboratórios
 
-### 💻 Lab01 — Revisão de Modelo Relacional
+### 💻 Lab01 — Revisão de Modelo Relacional Parte 01
 - Revisão de comandos **DDL** e **DML**.
 - Execução de consultas para fixar os conceitos fundamentais de banco de dados relacionais.
+
+### 💻 Lab02 — Revisão de Modelo Relacional Parte 02
+- Revisão de comandos **DDL** e **DML**.
+- Join, Funções Agregadas, Group By, Funções Nativas, Subconsultas e Views.
 
 ---
 
@@ -25,6 +29,10 @@ Este repositório contém as respostas das atividades e os códigos dos laborat�
     📁 atividade-1/
     └── respostas.md
     📁 lab01/
+    ├── questao01.sql
+    ├── questao02.sql
+    └── questao03.sql
+    📁 lab02/
     ├── questao01.sql
     ├── questao02.sql
     └── questao03.sql
