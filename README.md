@@ -22,6 +22,9 @@ Este repositório contém as respostas das atividades e os códigos dos laborat�
 - Revisão de comandos **DDL** e **DML**.
 - Join, Funções Agregadas, Group By, Funções Nativas, Subconsultas e Views.
 
+### 💻 Lab03 — Revisão de Modelo Relacional Parte 03
+- Revisão de Índices
+
 ---
 
 ## 🗂 Organização do Repositório
@@ -36,6 +39,8 @@ Este repositório contém as respostas das atividades e os códigos dos laborat�
     ├── questao01.sql
     ├── questao02.sql
     └── questao03.sql
+    📁 lab03/
+    └── questao01.sql
 
 
 ## 📌 Observações
